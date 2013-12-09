@@ -1,19 +1,19 @@
-title:            Site Title
-description:      Describe your website here.
+title:            xcv58's website
+description:      No description.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://xcv58.github.io/hpstr-jekyll-theme
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
+  name:           xcv58
+  avatar:         cover.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          chenyihonglove@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        xcv58
   facebook:       
-  github:         
+  github:         xcv58
   stackexchange:  
   linkedin:       
   instagram:      
